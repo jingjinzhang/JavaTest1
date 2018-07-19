@@ -12,8 +12,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Exam1" target="1.7" />
-      <module name="Exam2" target="1.7" />
+      <module name="Exam1" target="1.8" />
+      <module name="Exam2" target="1.8" />
       <module name="Exam3" target="1.8" />
       <module name="JavaTest1" target="1.5" />
     </bytecodeTargetLevel>
